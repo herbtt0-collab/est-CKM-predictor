@@ -1,1 +1,1 @@
-# est-CKM-predictor
+# est-predictor
